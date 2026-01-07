@@ -1,0 +1,5 @@
+{
+  "name": "CADASTRO TRANSPORTE ESCOLAR UNIVERSITÁRIO - QUIXERAMOBIM",
+  "description": "Aplicativo para cadastro de universitários e funcionários com geração automática de carteirinha/ficha em PDF.",
+  "requestFramePermissions": []
+}
